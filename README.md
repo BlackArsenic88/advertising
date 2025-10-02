@@ -1,7 +1,7 @@
 Project Frost 
 
-# Advertising Optimization 
-In today’s competitive digital landscape, optimizing customer acquisition costs (CAC), sales conversions, and click-through rates (CTR) is crucial for driving revenue and maximizing ROI on ad spend. This software leverages advanced AI/ML algorithms to analyze user behavior, ad performance, and conversion funnels to provide data-driven recommendations that improve online advertising outcomes. By combining predictive analytics, real-time monitoring, and automated optimization, businesses can increase ad efficiency, reduce wasted ad spend, and boost customer acquisition.
+# Ad Optimization 
+In today’s competitive digital landscape, optimizing customer acquisition costs (CAC), lead conversions, and click-through rates (CTR) is crucial for driving revenue and maximizing ROI on ad spend. This software leverages advanced AI algorithms to analyze user behavior, ad performance, and conversion funnels to provide data-driven recommendations that improve online advertising outcomes. By combining predictive analytics, real-time monitoring, and automated optimization, businesses can increase ad efficiency, reduce wasted ad spend, and boost customer acquisition.
 
 ![Times Square](times_square.jpg)
 
@@ -17,12 +17,12 @@ In today’s competitive digital landscape, optimizing customer acquisition cost
 - Identifies low-ROI campaigns early, allowing businesses to fail fast and reinvest in profitable strategies.
 
 ## Information 🧠
-- Provides real-time dashboards and predictive insights into CTR, CAC (customer acquisition cost), ROI, and conversion metrics.
+- Provides real-time dashboards and predictive insights into CAC, CTR, ROI, and conversion metrics.
 - Generates actionable recommendations on budget distribution, creative improvements, and targeting refinements.
 - Equips decision-makers with data-driven intelligence instead of relying on gut instinct.
 
 ## Variety 🎨
-- Supports multiple ad platforms (Google Ads, Meta Ads, LinkedIn, DSPs, etc.) in a single interface.
+- Supports multiple ad platforms (Google Ads, Meta Ads, X, LinkedIn etc.) in a single interface.
 - Offers flexibility to test different audiences, creatives, and bidding strategies at scale.
 - Enables custom reporting views for sales, marketing, finance, or C-level dashboards.
 
@@ -43,7 +43,6 @@ In today’s competitive digital landscape, optimizing customer acquisition cost
 - [Acknowledgements](#acknowledgements)
 
 # Features✨
-- Conversion Funnel Analysis: Identify bottlenecks in the customer journey and optimize for higher conversions.📊 
 - Click-Through Rate (CTR) Optimization: Measure, predict, and improve ad engagement across platforms.🔎
 - Machine Learning Predictions: Forecast campaign performance and recommend budget reallocations.🤖
 - A/B Testing Automation: Test multiple ad creatives, audiences, and bidding strategies at scale.⚡ 
@@ -61,8 +60,6 @@ In today’s competitive digital landscape, optimizing customer acquisition cost
 
 # Prerequisites
 - Python 3.10+
-- Node.js (for visualization dashboards)
-- Docker (for containerized deployment)
 - Access to online advertising platform APIs (Google, Meta, LinkedIn, etc.)
 - API credentials and appropriate campaign data permissions
 
@@ -89,6 +86,9 @@ This project is licensed under a dual license. You are free to use, modify, and 
 - Early enterprise partners who provided campaign data and feedback
 - Inspiration from industry leaders in AI/ML models
 - I am grateful. Thank you! 
+
+
+
 
 
 
